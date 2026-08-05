@@ -93,3 +93,5 @@ This project was developed for the **JavaScript Project** course to practice fro
 ## Author
 
 **Nattawut Prasong**
+
+> JavaScript Project | Academic Year 2024, Semester 1
