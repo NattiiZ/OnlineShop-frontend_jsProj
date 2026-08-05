@@ -4,7 +4,6 @@ const { check } = require('prettier');
 
 
 const base_url = `http://localhost:${process.env.API_PORT || 3000}`;
-// const base_url = process.env.RukCom_IP
 
 
 
