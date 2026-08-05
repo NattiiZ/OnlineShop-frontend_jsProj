@@ -2,7 +2,7 @@ const axios = require('axios');
 const { use } = require('../routes');
 
 
-const base_url = `http://localhost:${process.env.API_PORT || 3000}`;
+const base_url = `http://localhost:${process.env.API_PORT || 5000}`;
 
 
 

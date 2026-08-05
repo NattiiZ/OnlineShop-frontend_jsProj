@@ -23,7 +23,7 @@ app.use(session);
 app.use(routes);
 
 
-const host_port = process.env.HOST_PORT || 5000;
+const host_port = process.env.HOST_PORT || 3000;
 
 
 

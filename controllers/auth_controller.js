@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 
-const base_url = `http://localhost:${process.env.API_PORT || 3000}`;
+const base_url = `http://localhost:${process.env.API_PORT || 5000}`;
 
 
 
