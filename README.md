@@ -3,13 +3,13 @@
 A frontend e-commerce web application (Thai language) developed as part of a **JavaScript Project** course. This project provides a user interface for an online shopping system and communicates with the backend through REST APIs.
 
 
-# Homepage
+### Homepage
 <img width="1321" height="1244" alt="Screenshot 2026-08-06 000113" src="https://github.com/user-attachments/assets/8dad1bd9-1259-4f62-972a-12d26d52b39d" />
 
-# Cart
+### Cart
 <img width="1328" height="579" alt="Screenshot 2026-08-06 000324" src="https://github.com/user-attachments/assets/57522e01-d89b-4f4f-ba83-7b940f6da5a4" />
 
-# View order
+### View order
 <img width="1316" height="724" alt="Screenshot 2026-08-06 000349" src="https://github.com/user-attachments/assets/b31ef60c-3272-4273-af88-c03f0b03e490" />
 
 
