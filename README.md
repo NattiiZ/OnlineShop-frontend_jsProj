@@ -26,13 +26,13 @@ A frontend e-commerce web application (Thai language) developed as part of a **J
 
 ## Tech Stack
 
-* JavaScript (ES6)
+* JavaScript
 * Node.js
 * Express.js
 * Axios
 * HTML5
-* CSS3
-* Bootstrap
+* CSS
+
 
 ## Installation
 
